@@ -1,0 +1,7 @@
+p {
+  color: var(--color-light);
+}
+
+#about {
+  height: 40vh;
+}
